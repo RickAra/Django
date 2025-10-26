@@ -1,0 +1,12 @@
+model
+
+representa os dados que serão armazenado no banco de dados
+
+view
+
+onde processa as informações enviadas do usuário onde vai para o model que guarda no banco de dados
+
+template
+
+é responsável para renderizar os dados para o usuário, ele define aparência do aplicativo e as informações.
+
